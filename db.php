@@ -1,8 +1,8 @@
 <?php
 $host = 'localhost';
-$user = 'zklszwhh_yhaexam';  // Change this to your database username
-$pass = 'hidecard1500';      // Change this to your database password
-$db_name = 'zklszwhh_yhaexam';
+$user = '';  // Change this to your database username
+$pass = '';      // Change this to your database password
+$db_name = '';
 
 $conn = new mysqli($host, $user, $pass, $db_name);
 
